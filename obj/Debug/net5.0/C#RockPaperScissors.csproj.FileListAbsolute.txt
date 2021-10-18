@@ -1,0 +1,16 @@
+C:\Users\nicho\source\codeworks\afternoon-challenges\C#RockPaperScissors\bin\Debug\net5.0\C#RockPaperScissors.exe
+C:\Users\nicho\source\codeworks\afternoon-challenges\C#RockPaperScissors\bin\Debug\net5.0\C#RockPaperScissors.deps.json
+C:\Users\nicho\source\codeworks\afternoon-challenges\C#RockPaperScissors\bin\Debug\net5.0\C#RockPaperScissors.runtimeconfig.json
+C:\Users\nicho\source\codeworks\afternoon-challenges\C#RockPaperScissors\bin\Debug\net5.0\C#RockPaperScissors.runtimeconfig.dev.json
+C:\Users\nicho\source\codeworks\afternoon-challenges\C#RockPaperScissors\bin\Debug\net5.0\C#RockPaperScissors.dll
+C:\Users\nicho\source\codeworks\afternoon-challenges\C#RockPaperScissors\bin\Debug\net5.0\ref\C#RockPaperScissors.dll
+C:\Users\nicho\source\codeworks\afternoon-challenges\C#RockPaperScissors\bin\Debug\net5.0\C#RockPaperScissors.pdb
+C:\Users\nicho\source\codeworks\afternoon-challenges\C#RockPaperScissors\obj\Debug\net5.0\C#RockPaperScissors.csproj.AssemblyReference.cache
+C:\Users\nicho\source\codeworks\afternoon-challenges\C#RockPaperScissors\obj\Debug\net5.0\C#RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\source\codeworks\afternoon-challenges\C#RockPaperScissors\obj\Debug\net5.0\C#RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\nicho\source\codeworks\afternoon-challenges\C#RockPaperScissors\obj\Debug\net5.0\C#RockPaperScissors.AssemblyInfo.cs
+C:\Users\nicho\source\codeworks\afternoon-challenges\C#RockPaperScissors\obj\Debug\net5.0\C#RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\nicho\source\codeworks\afternoon-challenges\C#RockPaperScissors\obj\Debug\net5.0\C#RockPaperScissors.dll
+C:\Users\nicho\source\codeworks\afternoon-challenges\C#RockPaperScissors\obj\Debug\net5.0\ref\C#RockPaperScissors.dll
+C:\Users\nicho\source\codeworks\afternoon-challenges\C#RockPaperScissors\obj\Debug\net5.0\C#RockPaperScissors.pdb
+C:\Users\nicho\source\codeworks\afternoon-challenges\C#RockPaperScissors\obj\Debug\net5.0\C#RockPaperScissors.genruntimeconfig.cache
